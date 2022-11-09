@@ -35,3 +35,10 @@ basic commands:-
 - pwd -> present working directory
 - ls -> list 
 - tree -> display files in tree
+
+ssh-keygen -> to generate ssh auth key
+
+
+
+
+
